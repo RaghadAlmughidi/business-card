@@ -1,10 +1,10 @@
-# today-i-learned
+# Business-card
 react project static page to represnt information as business card
 ## [Project Demo](https://spiffy-praline-f81d05.netlify.app/)
 
 
 
-![screencapture-127-0-0-1-5500-2023-02-23-01_20_48](https://user-images.githubusercontent.com/52867161/220773915-59b49101-9b69-4b0d-b1f8-c23259a4f71f.png)
+![screencapture-spiffy-praline-f81d05-netlify-app-2023-02-28-02_09_39](https://user-images.githubusercontent.com/52867161/221710079-3c98ceb5-b65a-41b6-8b8b-09a18e1c155e.png)
 
 
 
